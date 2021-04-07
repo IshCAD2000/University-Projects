@@ -1,2 +1,2 @@
 # University-Projects
-This is a collection of university projects that seemed really interesting to me.
+This is a collection of university projects that I've done over the years.
