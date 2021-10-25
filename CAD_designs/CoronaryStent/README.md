@@ -1,6 +1,6 @@
 Hello! 
 
-Welcome to this little folder that I'm creating to show 3 prototype designs of a coronary stent that was worked on by my project group.
+Welcome to this little folder that I'm creating to show 3 prototype designs of a coronary stent that was worked on by me for my project group.
 Data and design parameters extracted from He et al., (2005) and Hara et al., (2006).
 
 Design Parameters:
